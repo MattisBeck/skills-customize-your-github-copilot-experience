@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "manim-integrals",
+      "title": "Visualizing Integrals with Manim",
+      "description": "Visualize the area under a curve using the Manim library, inspired by 3Blue1Brown.",
+      "path": "assignments/manim-integrals",
+      "dueDate": "2026-02-07",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
